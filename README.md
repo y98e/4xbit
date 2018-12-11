@@ -14,7 +14,7 @@ Portions Copyright (c) 2012-2017, The CryptoNote Developers, The Bytecoin Develo
 
 ```git clone https://github.com/y98e/4xbit```
 
-```cd 4xbIT```
+```cd 4xbit```
 
 ```mkdir build ; cd build```
 
