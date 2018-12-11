@@ -12,9 +12,9 @@ Portions Copyright (c) 2012-2017, The CryptoNote Developers, The Bytecoin Develo
 
 ```sudo apt-get -y install gcc-4.8 g++-4.8  git cmake```
 
-```git clone https://github.com/mybtcfx/4xbitcoin```
+```git clone https://github.com/y98e/4xbit```
 
-```cd 4xBIT```
+```cd 4xbIT```
 
 ```mkdir build ; cd build```
 
